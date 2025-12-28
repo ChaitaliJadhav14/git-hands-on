@@ -1,0 +1,8 @@
+Git Hands-on Practice Project
+
+This project is created to practice basic Git commands.
+It covers repository creation, file tracking, committing changes,
+branching, merging, and working with remote repositories on GitHub.
+
+The goal of this project is to understand version control
+and collaboration using Git.
