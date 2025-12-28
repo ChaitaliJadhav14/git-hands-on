@@ -1,0 +1,22 @@
+Git Hands-on Practice Project
+
+This project is created to practice basic Git commands.
+It covers repository creation, file tracking, committing changes,
+branching, merging, and working with remote repositories on GitHub.
+
+The goal of this project is to understand version control
+and collaboration using Git.
+
+Git Commands Used in This Project
+
+git init        - Initialize a new Git repository
+git status      - Check file status
+git add         - Stage changes
+git commit      - Save changes to repository
+git branch      - Create branches
+git checkout    - Switch branches
+git merge       - Merge branches
+git push        - Upload code to GitHub
+git clone       - Download repository.
+
+
